@@ -12,3 +12,7 @@ As satted above, this is only for a course-
 This is a sample web project, deployment can be done at any web server.
 
 ## How to Contribute
+
+
+### Copyright
+2021 Git.trainig
