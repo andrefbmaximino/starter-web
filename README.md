@@ -1,5 +1,5 @@
 # Starter Web Project
-This is a simple website project for showing how GIT works.´Adding some more text to the READme-
+This is a simple website project for showing how GIT works.´Adding some more text to the READme, then more changes from myfeature branch too.
 
 ## Introduction
 This repository is for showing how Git and GitHub work. And now it has another phrase.
