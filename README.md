@@ -13,6 +13,8 @@ This is a sample web project, deployment can be done at any web server.
 
 ## How to Contribute
 
+Pleas efork the repository and then issue PR for review.
+
 
 ### Copyright
 2021 Git.trainig
