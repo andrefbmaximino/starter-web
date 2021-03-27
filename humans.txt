@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sason Taylor	jason@git.com	@hello
 
 # THANKS
 
